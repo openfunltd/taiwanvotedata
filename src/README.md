@@ -1,3 +1,4 @@
+## 選舉種類 votetype.csv
 ```
-php votedata.php > ../outputs/votedata.csv
+php votetype.php > ../outputs/votetype.csv
 ```
