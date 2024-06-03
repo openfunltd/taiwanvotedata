@@ -1,0 +1,15 @@
+subject_id,subject_name,subject_enname,legislator_types
+P0,總統副總統,President,
+L0,立法委員,Legislator,L1=區域&L2=平地原住民&L3=山地原住民&L4=不分區政黨
+C1,直轄市長,Mayor,
+C2,縣市長,CountyMayor,
+T1,直轄市議員,CouncilMember,T1=區域&T2=平地原住民&T3=山地原住民
+T2,縣市議員,CountyCouncilMember,T1=區域&T2=平地原住民&T3=山地原住民
+D2,鄉鎮市長,CityMayor,
+D1,直轄市山地原住民區長,DistrictExecutive,
+R2,鄉鎮市民代表,CityRepresentatives,R3=&R1=區域&R2=平地原住民
+R1,直轄市山地原住民區民代表,DistrictRepresentatives,R3=&R1=區域&R2=平地原住民
+V0,村里長,VillageChief,
+N0,國大代表,NationalAssembly,N1=區域&N2=平地原住民&N3=山地原住民
+P9,臺灣省長,ProvincialGovernor,
+T9,臺灣省議員,ProvincialAssemblyCouncilMembers,T1=區域&T2=平地原住民&T3=山地原住民
